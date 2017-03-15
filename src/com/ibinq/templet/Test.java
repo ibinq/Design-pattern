@@ -2,6 +2,7 @@ package com.ibinq.templet;
 
 /**
  * Created by Bing on 2017/3/15.
+ * 模板方法模式
  */
 public class Test {
     public static void main(String[] args){
