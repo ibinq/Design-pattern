@@ -6,10 +6,10 @@ package com.ibinq.singleton;
 public class Test {
     public static void main(String[] args){
         //饿汉模式
-        Singleton s11 = Singleton.getInstance();
-        Singleton s22 = Singleton.getInstance();
+        Singleton s1 = Singleton.getInstance();
+        Singleton s2 = Singleton.getInstance();
 
-        if(s11 == s22){
+        if(s1 == s2){
             System.out.print("s1和s2是同一个实例");
         }else{
             System.out.print("s1和s2不是同一个实例");
