@@ -5,7 +5,7 @@ package com.ibinq.singleton_new;
  */
 public class Minister {
     /**
-     * @param args
+     * @param   args
      */
     public static void main(String[] args) {
         //第一天

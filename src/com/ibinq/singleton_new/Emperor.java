@@ -6,7 +6,7 @@ package com.ibinq.singleton_new;
 public class Emperor {
     private static Emperor emperor = null; //定义一个皇帝放在那里，然后给这个皇帝名字
     private Emperor(){
-        //世俗和道德约束你，目的就是不让你产生第二个皇帝
+        //世俗和道德约   束你，目的就是不让你产生第二个皇帝
     }
     public static Emperor getInstance(){//多線程時易出問題
         if(emperor == null){ //如果皇帝还没有定义，那就定一个
