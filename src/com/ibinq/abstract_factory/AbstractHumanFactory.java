@@ -1,7 +1,7 @@
 package com.ibinq.abstract_factory;
 
 /**
- * Created by Administrator on 2017/4/11.
+ * Created by ibinq on 2017/4/11.
  */
 public abstract class AbstractHumanFactory implements HumanFactory {
     /*
