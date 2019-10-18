@@ -4,12 +4,7 @@ package com.ibinq.proxy;
  * Created by Administrator on 2017/4/11.
  */
 public class XiMenQing {
-    /*
-    * 水浒里是这样写的：西门庆被潘金莲用竹竿敲了一下难道，痴迷了，
-    * 被王婆看到了, 就开始撮合两人好事，王婆作为潘金莲的代理人
-    * 收了不少好处费，那我们假设一下：
-    * 如果没有王婆在中间牵线，这两个不要脸的能成吗？难说的很！
-    */
+
     public static void main(String[] args) {
         //把王婆叫出来
         WangPo wangPo = new WangPo();
